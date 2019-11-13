@@ -1,6 +1,8 @@
 # Robust Audio Adversarial Example for a Physical Attack
 
-This repository includes the implementation of our paper [Robust Audio Adversarial Example for a Physical Attack](https://arxiv.org/abs/1810.11793).
+This repository includes the implementation of our paper: [Robust Audio Adversarial Example for a Physical Attack](https://www.ijcai.org/proceedings/2019/741).
+
+You can find generated examples at [our project page](https://yumetaro.info/projects/audio-ae/).
 
 ## Usage
 
@@ -97,10 +99,11 @@ The most of the source code in this repository is based on [https://github.com/c
 If you use this code for your research, please cite this paper:
 
 ```
-@article{yakura2018robust,
+@inproceedings{yakura2019robust,
   title={Robust Audio Adversarial Example for a Physical Attack},
-  author={Yakura, Hiromu and Jun, Sakuma},
-  journal={arXiv preprint arXiv:1810.11793},
-  year={2018}
+  author={Yakura, Hiromu and Sakuma, Jun},
+  journal={Proceedings of the 28th International Joint Conference on Artificial Intelligence},
+  pages={5334--5341},
+  year={2019}
 }
  ```
